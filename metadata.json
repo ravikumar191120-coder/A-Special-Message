@@ -1,0 +1,6 @@
+{
+  "name": "A Special Message",
+  "description": "A modern Gen-Z style personal note with gorgeous interactive glassmorphism cards and neon glowing effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
