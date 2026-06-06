@@ -497,7 +497,7 @@ export default function App() {
                 </p>
 
                 <p className="text-base sm:text-lg text-zinc-200 leading-relaxed font-sans max-w-md mx-auto">
-                  Thoda apna khayal bhi rakha karo.<br className="block my-2" />Har baat pe gussa nahi karte.<br className="block my-2" />Mera cute sa bacha ho aap. 🫶
+                  Thoda apna khayal bhi rakha karo.<br className="block my-2" />Har baat pe gussa nahi karte.<br className="block my-2" />Mera cute sa bacha ho na aap. 🫶
                 </p>
 
                 <div className="mt-6 flex items-center justify-center gap-2 text-xs text-pink-400/80 font-mono">
@@ -528,7 +528,7 @@ export default function App() {
                   <div>
                     <h4 className="text-zinc-400 font-mono text-[11px] uppercase mb-1">Mera Sincere Darr</h4>
                     <p className="text-sm sm:text-base text-zinc-200 leading-relaxed">
-                      Mujhe lag raha hai ki jitna serious aur effort main hoon, shayad utna aap nahi ho ab. Agar sach me aisa hai to honestly bata dena. Jhooth me na aapka time waste ho aur na mera.
+                      Mujhe lag raha hai ki jitna serious aur effort main hoon, shayad utna aap nahi ho ab. Agar sach me aisa hai to honestly bata dena. Jhooth me na aapka time waste ho aur na mera efforts.
                     </p>
                   </div>
                 </motion.div>
@@ -636,7 +636,7 @@ export default function App() {
 
                 {/* The actual original text preserved exactly */}
                 <p className="text-sm sm:text-base text-zinc-300 leading-relaxed border-t border-white/5 pt-4">
-                  📱 Kal saath chalna ho to 12 baje se pehle ek text ya call kar dena. Main 12:30–12:45 tak pahunchne ki poori koshish karunga. 🏃‍♂️
+                  📱 Kal saath chalna ho to 12 baje se pehle ek text ya call kar digiyega. Main 12:30–12:45 tak pahunchne ki poori koshish karunga. 🏃‍♂️
                 </p>
               </motion.div>
             </div>
